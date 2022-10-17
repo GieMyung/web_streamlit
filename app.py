@@ -51,3 +51,4 @@ if st.button('Recommend'):
                 col.image(images[idx])
                 col.write(titles[idx])
                 idx += 1
+                
